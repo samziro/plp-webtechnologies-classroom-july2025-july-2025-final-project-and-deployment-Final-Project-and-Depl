@@ -1,0 +1,60 @@
+# Multipage Responsive Website
+
+This is my Final Project Assignment for HTML5, CSS3, and JavaScript.  
+The website demonstrates responsive design, interactivity, and deployment best practices.  
+
+---
+
+## Project Purpose
+The purpose of this project is to showcase my ability to:
+- Plan and structure a multipage website.
+- Use HTML5 for semantic and accessible content.
+- Apply CSS3 for layout, styling, responsiveness, and animations.
+- Implement JavaScript for interactivity (menus, form validation, and dynamic elements).
+- Deploy the project using modern hosting platforms.
+
+---
+
+## Website Structure
+The website contains 3 main pages:
+
+1. Home (`index.html`)
+   - Welcoming section with a hero banner.
+   - Navigation links to other pages.
+   - Responsive design with animations.
+
+2. About (`about.html`)
+   - Information about the purpose of the site.
+   - Styled layout with images and text.
+   - Reusable header and footer.
+
+3. Contact (`contact.html`)
+   - Contact form with JavaScript validation.
+   - Links to social media (optional).
+   - Responsive form design.
+
+---
+
+## Features
+- Mobile Responsive: Works on desktop, tablet, and mobile.
+- CSS3 Effects: Transitions, hover effects, keyframe animations.
+- JavaScript Interactivity:
+  - Form validation (contact page).
+  - Toggle menu for smaller screens.
+  - Scroll/animation effects.
+- Internal Navigation: Header and footer with consistent navigation links.
+- Clean Project Structure: Organized into `css`, `js`, and `images` folders.
+
+---
+
+## Project Structure
+final-assignment/
+│── index.html # Home page
+│── about.html # About page
+│── contact.html # Contact page
+│── css/
+│ └── styles.css # Styles and responsiveness
+│── js/
+│ └── script.js # Interactivity and form validation
+│── images/ # Placeholder images/icons
+│── README.md # Project documentation
